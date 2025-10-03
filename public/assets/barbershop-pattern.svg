@@ -1,0 +1,56 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .icon {
+        stroke: #4a4a4a;
+        stroke-width: 1.5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill: none;
+      }
+    </style>
+  </defs>
+
+  <!-- Scissors -->
+  <g transform="translate(15, 15) scale(0.5)">
+    <path class="icon" d="M18 30 C 18 35.523 13.523 40 8 40 C 2.477 40 -2 35.523 -2 30 C -2 24.477 2.477 20 8 20 C 13.523 20 18 24.477 18 30 Z"/>
+    <path class="icon" d="M18 10 C 18 15.523 13.523 20 8 20 C 2.477 20 -2 15.523 -2 10 C -2 4.477 2.477 0 8 0 C 13.523 0 18 4.477 18 10 Z"/>
+    <path class="icon" d="M12 20 L 40 2"/>
+    <path class="icon" d="M12 20 L 40 38"/>
+  </g>
+
+  <!-- Barber Pole -->
+  <g transform="translate(95, 10) scale(0.5)">
+    <path class="icon" d="M10 5 a 10 10 0 0 1 20 0"/>
+    <path class="icon" d="M10 45 a 10 10 0 0 0 20 0"/>
+    <path class="icon" d="M10 5 V 45 M30 5 V 45"/>
+    <path class="icon" d="M12 12 l 16 8"/>
+    <path class="icon" d="M12 22 l 16 8"/>
+    <path class="icon" d="M12 32 l 16 8"/>
+  </g>
+
+  <!-- Comb -->
+  <g transform="translate(10, 80) scale(0.5)">
+    <path class="icon" d="M2 20 H 48 V 30 H 2 Z"/>
+    <path class="icon" d="M5 20 V 5 M10 20 V 5 M15 20 V 5 M20 20 V 5 M25 20 V 5 M30 20 V 5 M35 20 V 5 M40 20 V 5 M45 20 V 5"/>
+  </g>
+
+  <!-- Straight Razor -->
+  <g transform="translate(75, 75) scale(0.5)">
+    <path class="icon" d="M2 2 L 40 2 L 48 10 L 40 18 L 2 18 Z"/>
+    <path class="icon" d="M2 10 H 15"/>
+  </g>
+
+  <!-- Shaving Brush -->
+  <g transform="translate(110, 115) scale(0.5)">
+    <path class="icon" d="M10 30 H 30 V 45 H 10 Z"/>
+    <path class="icon" d="M5 15 C 5 5, 35 5, 35 15 C 35 25, 5 25, 5 15 V 30 H 35 V 15"/>
+  </g>
+
+  <!-- Barber Chair -->
+  <g transform="translate(40, 120) scale(0.5)">
+    <path class="icon" d="M10 45 V 15 H 30 V 5 H 35 V 25 H 30 V 35 H 15 V 45 Z"/>
+    <path class="icon" d="M5 50 H 40"/>
+    <path class="icon" d="M22.5 50 V 45"/>
+  </g>
+</svg>

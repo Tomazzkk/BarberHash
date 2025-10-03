@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">barberhash</string>
+    <string name="title_activity_main">barberhash</string>
+    <string name="package_name">com.example.barberhash</string>
+    <string name="custom_url_scheme">com.example.barberhash</string>
+</resources>
